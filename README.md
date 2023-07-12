@@ -5,3 +5,7 @@ Desenvolvi este website com o propósito de criar um catálogo online para uma l
 ## Página Inicial
 
 <img  src="./img/site.png">
+
+## Responsividade
+
+<img  src="./img/resp.png">
